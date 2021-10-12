@@ -23,7 +23,7 @@ Function `myHttpTrigger` is now ready to be tested. Enter the following command 
 func host start
 ``` 
 
-Once the host has started, open a browser and navigate to `http://localhost:7071/api/myHttpTrigger?name=Azure`.
+Once the host has started, open a browser and navigate to `https://localhost:7071/api/myHttpTrigger?name=Azure`.
 
 [!include[](../includes/takeaways-heading.md)]
 
